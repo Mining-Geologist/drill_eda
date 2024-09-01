@@ -11,13 +11,13 @@ DrillEda is a Python package for processing and visualizing drillhole data, part
 
 ## Installation
 
-```bash
+```bash 
 pip install DrillEda
-
+```
 
 
 ## Example Usage 
-
+```bash 
 import pandas as pd
 from DrillEda import DrillEda
 
